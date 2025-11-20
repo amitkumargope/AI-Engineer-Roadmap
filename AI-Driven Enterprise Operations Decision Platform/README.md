@@ -294,7 +294,7 @@ This project is licensed under the MIT License. Feel free to use and modify for 
 
 **Amit Kumar Gope**
 - GitHub: [@amitkumargope](https://github.com/amitkumargope)
-- LinkedIn: [Connect with me](https://linkedin.com/in/amitkumargope)
+- LinkedIn: [Connect with me]([https://linkedin.com/in/amitkumargope](https://www.linkedin.com/in/amit-kumar-gope-%E9%98%BF%E7%B1%B3%E7%89%B9-1b223512b/))
 
 ## 📞 **Contact**
 
@@ -338,5 +338,6 @@ Processing Speed: 1000+ reviews/sec
 **📧 Questions? Feel free to reach out or open an issue.**
 
 ---
+
 
 *Last Updated: November 2025*
